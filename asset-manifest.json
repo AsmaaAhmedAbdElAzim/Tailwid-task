@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Tailwid-task/static/css/main.77bfae54.css",
+    "main.js": "/Tailwid-task/static/js/main.f1d5c140.js",
+    "static/media/laptop.jpg": "/Tailwid-task/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "index.html": "/Tailwid-task/index.html",
+    "main.77bfae54.css.map": "/Tailwid-task/static/css/main.77bfae54.css.map",
+    "main.f1d5c140.js.map": "/Tailwid-task/static/js/main.f1d5c140.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77bfae54.css",
+    "static/js/main.f1d5c140.js"
+  ]
+}
